@@ -1,0 +1,13 @@
+[
+  {
+		"name": "MegaScout",
+		"unitType": "Scout",
+		"movement": 5,
+		"strength": 15,
+		"cost": 150,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	}
+]
