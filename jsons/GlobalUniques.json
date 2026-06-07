@@ -1,6 +1,6 @@
 {
   "name": "test"
   "uniques": [
-    "[+50]% [Science] [in all cities]"
+    "[-80]% [Science] [in all cities]"
   ]
 }
